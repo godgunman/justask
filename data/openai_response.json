@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "麻醬麵是一種濃郁的中國傳統麵食，由芝麻醬、花生醬、蒜泥、辣椒醬和醋等調味料烹製而成。炸醬麵是一種混合了芝麻醬、花生醬、蒜泥、辣椒醬和醋等調味料的中國傳統麵食，但它比麻醬麵更加濃郁，口感更加香辣。"
+    }
+  ],
+  "created": 1683172779,
+  "id": "cmpl-7CKPzbwq04iap7WneSeyMLoWKrLcK",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 227,
+    "prompt_tokens": 32,
+    "total_tokens": 259
+  }
+}
