@@ -1,8 +1,8 @@
 import os
 import openai
 
-# openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.api_key = "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"
+openai.api_key = os.getenv("OPENAI_API_KEY")
+# openai.api_key = "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"
 
 ## https://platform.openai.com/docs/models/model-endpoint-compatibility
 ## text-davinci-003, text-davinci-002, text-curie-001, text-babbage-001, text-ada-001
